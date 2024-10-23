@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to explore the Vrinda Cloth store sales data to understand the sales by different channels , products and sales trend . This aims is to study how sales strategies can be improved and optimized . The data was obtained from [Kaggle Vrinda Store Sales data]{https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis}
+This project aims to explore the Vrinda Cloth store sales data to understand the sales by different channels , products and sales trend . This aims is to study how sales strategies can be improved and optimized . The data was obtained from [Kaggle Vrinda Store Sales data](https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis)
 
 ## Purpose Of The Project
 
@@ -10,7 +10,7 @@ The major aim of thie project is to gain insight into the sales data of Vrinda S
 
 ## About Data
 
-The data was obtained from [Kaggle Vrinda Store Sales data]{https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis}.
+The data was obtained from [Kaggle Vrinda Store Sales data](https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis).
 this data contains sales transactions of Vrinda store through different channels like online and offline aswell.The data contains 21 columns and 31,047 rows.
 
 Columns	Description	Data type
