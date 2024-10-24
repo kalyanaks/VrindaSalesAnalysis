@@ -144,7 +144,7 @@ this data contains sales transactions of Vrinda store through different channels
 
 ## Code
 
-For the rest of the code, check this [SQl_queries.sql](
+For the rest of the code, check this [SQl_queries.sql](https://github.com/kalyanaks/VrindaSalesAnalysis/blob/main/SQL_queries.sql)
 
 ```sql
 
