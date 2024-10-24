@@ -144,5 +144,36 @@ this data contains sales transactions of Vrinda store through different channels
 
 ## Code
 
-For the rest of the code,check the [SQl
+For the rest of the code, check this [SQl_queries.sql](
 
+```sql
+
+-- Create database
+CREATE DATABASE IF NOT EXISTS walmartSales;
+
+--Create table
+drop table if exists store_data;
+create table store_data(
+      index_no int not null primary key ,
+      Order_ID varchar(50) not null ,
+      Cust_ID varchar(20) not null ,
+      Gender varchar(10) not null ,
+      Age int not null ,
+      Age_Group varchar(12) not null ,
+      Date_ timestamp not null ,
+      month_ varchar(7) not null ,
+      Status varchar(10) not null ,
+      Channel varchar(15) not null , 
+      SKU varchar(30) not null ,
+      Category varchar(15) not null ,
+      Size_ varchar(5) not null ,
+      Qty int not null ,
+      currency	varchar(5) not null ,
+      Amount int not null ,
+      ship_city	varchar(50) not null ,
+      ship_state varchar(20) not null ,
+      ship_postal_code varchar(10) not null ,
+      ship_country varchar (5) not null ,
+      B2B boolean not null 
+);
+```
