@@ -122,7 +122,7 @@ this data contains sales transactions of Vrinda store through different channels
 
 > 18. Which city has the highest sales volume?
 
-> 19. How does sales performance differ by shipping country?
+> 19. How does sales performance differ by shipping state?
 
 ### Channel Performance Questions
  
